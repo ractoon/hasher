@@ -3,6 +3,6 @@
   "scripts": {},
   "dependencies": {
     "clipboardy": "^2.3.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
